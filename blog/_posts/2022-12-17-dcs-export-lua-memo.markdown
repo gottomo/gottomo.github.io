@@ -2,7 +2,7 @@
 layout: post
 title:  "Adding a custom export lua script without conflicting with other scripts"
 date:   2022-12-17 16:52:07 +0100
-categories: dcs export lua script memo
+categories: dcs
 ---
 I have recently been trying to write a lua script to export some basic flight data into a log file, and as a total lua noob without any prior knowledge, I have gone through many trial and errors to make things work. In this post I record, as a reference for future myself and for others, the issues encountered and the solutions to these issues.
 
